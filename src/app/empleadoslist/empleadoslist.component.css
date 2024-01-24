@@ -1,0 +1,4 @@
+/* Put these styles in: src/app/housing-location/housing-location.component.css */
+table, th, td{
+  border: 1px solid;
+}
